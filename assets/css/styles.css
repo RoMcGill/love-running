@@ -21,6 +21,7 @@ h1,h2 {
 #logo{
     float: left;
     font-size: 280%;
+    margin-left: 30px;
 
 }
 /* navagation links */
@@ -107,4 +108,27 @@ animation-fill-mode: forwards;
 
     position: absolute;
 
+}
+#club-ethos{
+    height: 600px;
+}
+
+#left-about{
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    background-color: darkblue;
+}
+
+#right-about{
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+    background-color: darkorange;
+}
+
+#center-about{
+    width: 33%;
+    margin: 0 auto;
+    background-color: forestgreen;
 }
