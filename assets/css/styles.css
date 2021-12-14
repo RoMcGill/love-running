@@ -293,7 +293,7 @@ text-align: center;
         height: 1200px;
         margin: 0 auto;
     }
-
+    /* something here is wrong*/
     .left-about-heading, .right-about-heading {
         width: inherit;
     }
@@ -302,7 +302,7 @@ text-align: center;
         width: 100%;
         text-align: center;
     }
-
+    /* ^ something here is wrong ^ */
     .left-about-heading p, .right-about-heading p {
         text-align: center;
         padding: 0 20px;
